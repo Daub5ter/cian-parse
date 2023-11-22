@@ -1,0 +1,11 @@
+listen:
+  type: port
+  port: 1234
+storage:
+  host: localhost
+  port: 27017
+  database: cian
+  username:
+  password:
+  auth_db:
+  collection: immovables
